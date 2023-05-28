@@ -5,7 +5,7 @@ Este repositório foi criado para incluir jogos de teste, onde busco aprender e 
 ## Jogos Disponíveis
 
 
-2. **Pedra, Papel ou Tesoura**: O clássico jogo de Pedra, Papel ou Tesoura, onde o jogador compete contra o computador.
+1. **Pedra, Papel ou Tesoura**: O clássico jogo de Pedra, Papel ou Tesoura, onde o jogador compete contra o computador.
 
 
 São jogos apenas exemplos de iniciais e farei o possível para adicionar mais jogos e aprimorar os existentes à medida que eu progrida em minha jornada de aprendizado em Python.
